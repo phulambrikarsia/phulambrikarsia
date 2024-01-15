@@ -11,5 +11,5 @@ I'm interested in the intersection of Data Science and Economics. In my free tim
 
 Check out my site and projects [here!](https://phulambrikarsia.github.io)
 
-<a href="https://www.linkedin.com/in/phulambrikarsia/"><img height="35" src="https://github.com/phulambrikarsia/phulambrikarsia.github.io.git/assets/img/linkedin-2.svg" style="padding-right: 10px;"></a>
+<a href="https://www.linkedin.com/in/phulambrikarsia/"><img height="35" src="https://phulambrikarsia.github.io/assets/img/linkedin-2.svg" style="padding-right: 10px;"></a>
 <a href="mailto:phulambrikarsia@gmail.com"><img height="35" src="/assets/img/envelope-regular.svg" style="padding-right: 10px;"></a>
